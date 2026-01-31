@@ -39,14 +39,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
-
-  fonts:
-    - family: VariableFont
-      fonts:
-        - asset: fonts/Italic-VariableFont.ttf
-    - family: Playwrite
-      fonts:
-        - asset: fonts/PlaywriteGBJGuides-Regular.ttf
-        - asset: fonts/PlaywriteGBJGuides-Italic.ttf
-          style: italic
+    - assets/images/PageOne.jpeg
+    - assets/images/PageTwo.jpeg
+    - assets/images/PageThree.jpeg
